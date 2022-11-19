@@ -1,5 +1,5 @@
-![logo](https://github.com/Neildyan-CLAY/Neildyan-CLAY/blob/main/banner.gif)
-<h1 align="center">Hi, I'm Neildyan-CLAY</h1>
+![logo](https://github.com/Klaus-CLAY/Klaus-CLAY/blob/main/banner.gif)
+<h1 align="center">Hi, I'm Klaus-CLAY</h1>
 <h3 align="center">A Tech Savvy from Philippines</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neildyan-clay" alt="neildyan-clay" /></a> </p>
